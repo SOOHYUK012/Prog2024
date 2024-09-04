@@ -1,0 +1,31 @@
+﻿  009_size of.cpp
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(8,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(8,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(9,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(9,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(10,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(10,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(11,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(11,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(12,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(12,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(14,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(14,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(15,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(15,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(19,10): error C2059: 구문 오류: '상수'
+C:\Users\shhap\source\repos\002_name\009_size of\009_size of.cpp(21,15): error C2059: 구문 오류: '상수'
