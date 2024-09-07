@@ -1,0 +1,4 @@
+﻿  008.cpp
+C:\Users\shhap\source\repos\001_실습\008\008.cpp(8,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\shhap\source\repos\001_실습\008\008.cpp(9,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  008.vcxproj -> C:\Users\shhap\source\repos\001_실습\x64\Debug\008.exe
